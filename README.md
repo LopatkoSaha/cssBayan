@@ -1,2 +1,2 @@
 # Pure HTML & CSS accordion
-[Ссылка](https://lopatkosaha.github.io/cssBayan/Bayan.html)gi
+[Ссылка](https://lopatkosaha.github.io/cssBayan/Bayan.html)
